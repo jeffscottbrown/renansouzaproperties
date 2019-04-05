@@ -1,0 +1,10 @@
+micronaut:
+    application:
+        name: renansouzaproperties
+server:
+    Server 1:
+        flow: both
+        environment: test
+    Server 2:
+        flow: both
+        environment: production
